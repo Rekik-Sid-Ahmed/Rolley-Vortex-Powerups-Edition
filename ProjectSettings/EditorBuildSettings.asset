@@ -1,0 +1,11 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Rolly Vortex Templete/Scene/main.unity
+    guid: bdf0af061a500c24090b04346fdf7237
+  m_configObjects: {}
