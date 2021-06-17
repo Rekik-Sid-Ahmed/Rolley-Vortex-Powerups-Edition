@@ -4,7 +4,7 @@ Rolley Vortex Power ups edition ,is an improved version of the famous game Rolle
 
 It has a new UI/UX plus power ups store system containing powers such as : super speed and slow time ! 
 
-Link to try the game :
+Link to try the game : https://sidou-greenside.itch.io/rolley-vortex-powerups-edition
 
 
 ![image](https://user-images.githubusercontent.com/44214274/122313124-ecdb7400-cf15-11eb-9596-2acdd7122439.png)
